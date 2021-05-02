@@ -1,18 +1,23 @@
-#channel home
+##channel home
+
 ![image](https://user-images.githubusercontent.com/25037844/116804355-b7342480-ab3b-11eb-8fc7-3430f6f7adcc.png)
 
-#channel subscribed
+##channel subscribed
+
 ![image](https://user-images.githubusercontent.com/25037844/116804360-c024f600-ab3b-11eb-92a5-2cad6fc51fbf.png)
 
-#channel details
+##channel details
+
 ![image](https://user-images.githubusercontent.com/25037844/116804367-ca46f480-ab3b-11eb-895f-908411a4443c.png)
 
-#watch video 
+##watch video 
+
 ![image](https://user-images.githubusercontent.com/25037844/116804372-d0d56c00-ab3b-11eb-9bc0-73f9ca681ba6.png)
 
 ![image](https://user-images.githubusercontent.com/25037844/116804379-d9c63d80-ab3b-11eb-83b6-019ccd4d0df4.png)
 
-#channel search
+##channel search
+
 ![image](https://user-images.githubusercontent.com/25037844/116804385-e2b70f00-ab3b-11eb-8c14-eb4dca1c4d5b.png)
 
 # Getting Started with Create React App
